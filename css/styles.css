@@ -156,8 +156,16 @@ a {
 .header {
   padding-top: 24px;
   padding-bottom: 24px;
+  border-bottom: 1px solid #e7e9fc;
 }
 .header-nav {
   display: flex;
   align-items: center;
+}
+.navigation-list {
+  display: flex;
+}
+
+.contact-list {
+  display: flex;
 }
