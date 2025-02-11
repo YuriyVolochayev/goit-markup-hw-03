@@ -153,3 +153,11 @@ a {
 .page-footer .text {
   color: #f4f4fd;
 }
+.header {
+  padding-top: 24px;
+  padding-bottom: 24px;
+}
+.header-nav {
+  display: flex;
+  align-items: center;
+}
