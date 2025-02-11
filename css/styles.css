@@ -177,12 +177,15 @@ a {
   overflow: hidden;
 }
 
+.scnd-section {
+  padding-top: 120px;
+  padding-bottom: 120px;
+}
+
 .advant-list {
   display: flex;
   align-items: center;
   gap: 24px;
-  padding-top: 120px;
-  padding-bottom: 120px;
 }
 
 .subtitle {
@@ -191,11 +194,11 @@ a {
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: #2e2f42;
-  padding-bottom: 8px;
+  margin-bottom: 8px;
 }
 
 .advant-item {
-  width: calc(100-72) / 3;
+  width: calc(100-72) / 4;
 }
 .text {
   font-weight: 400;
