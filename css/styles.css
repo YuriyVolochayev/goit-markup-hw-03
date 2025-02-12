@@ -198,7 +198,7 @@ a {
 }
 
 .advant-item {
-  width: calc((100-72) / 4);
+  width: calc((100%-72) / 4);
 }
 .text {
   font-weight: 400;
