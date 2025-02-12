@@ -208,11 +208,17 @@ a {
   color: #434455;
 }
 
+/* thrd-section */
+
 .thrd-section {
   background-color: #f4f4fd;
+  padding-top: 120px;
+  padding-bottom: 120px;
 }
 
 .title {
+  margin: 0 auto;
+  margin-bottom: 72px;
   font-weight: 700;
   font-size: 36px;
   line-height: 1.11;
@@ -220,6 +226,27 @@ a {
   text-align: center;
   color: #2e2f42;
   text-transform: capitalize;
+}
+
+.title-list {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 24px;
+}
+
+.title-item {
+  width: ((100%-72)/4);
+}
+
+.portfolio-container {
+  border-radius: 0 0 4px 4px;
+  padding: 0px 0px 32px 0px;
+}
+
+.portfolio-subtitle {
+  margin-bottom: 8px;
+  text-align: center;
 }
 
 .title-item .subtitle,
