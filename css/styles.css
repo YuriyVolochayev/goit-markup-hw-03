@@ -240,11 +240,11 @@ a {
   border-radius: 0 0 4px 4px;
 }
 
-.portfolio-container {
+.team-container {
   padding: 32px 0;
 }
 
-.portfolio-subtitle {
+.team-subtitle {
   margin-bottom: 8px;
   text-align: center;
 }
@@ -256,6 +256,19 @@ a {
 
 .title-list .title-item {
   background-color: #fff;
+}
+
+/* qrtr-section */
+
+.qrtr-section {
+  padding-top: 120px;
+  padding-bottom: 120px;
+}
+
+.portfolio-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 24px;
 }
 
 /* footer */
