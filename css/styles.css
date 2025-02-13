@@ -131,7 +131,7 @@ a {
 
 .main-title {
   margin: 0 auto;
-  padding-bottom: 48px;
+  margin-bottom: 48px;
   max-width: 496px;
   font-weight: 700;
   font-size: 56px;
@@ -297,4 +297,5 @@ a {
 
 .page-footer .text {
   color: #f4f4fd;
+  max-width: 264px;
 }
